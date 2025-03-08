@@ -34,8 +34,8 @@
 # Exploratory Data Analysis (EDA)
 # Use visualizations such as bar charts, time series plots, and heatmaps to explore correlations.
 # Hypothesis Testing
-# Null Hypothesis (H₀): There is no significant relationship between my menstruation and Netflix viewing habits.
-# Alternative Hypothesis (Hₐ): Menstruation influence the type of Netflix content I choose to watch.
+# Null Hypothesis (H0): There is no significant relationship between my menstruation and Netflix viewing habits.
+# Alternative Hypothesis (H1): Menstruation influence the type of Netflix content I choose to watch.
 # Trend Analysis
 # Compare mood fluctuations with content themes to determine if certain genres have a positive or negative impact on emotional state.
 # Conclusion
