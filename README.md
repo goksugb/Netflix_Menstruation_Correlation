@@ -40,7 +40,7 @@
 # Compare mood fluctuations with content themes to determine if certain genres have a positive or negative impact on emotional state.
 # Conclusion
 # By the end of this project, I hope to answer the following questions:
-# Do I gravitate toward specific types of content based on my menstrual phase?
-# Does watching certain genres impact my mood differently depending on my cycle?
-# Can I use this data to optimize my media consumption for better emotional well-being?
+# - Do I gravitate toward specific types of content based on my menstrual phase?
+# - Does watching certain genres impact my mood differently depending on my cycle?
+# - Can I use this data to optimize my media consumption for better emotional well-being?
 # This project isn’t just about tracking Netflix habits. It’s about using data science to better understand personal behaviors and their psychological influences. Through structured analysis, I aim to uncover insights that will help me make more intentional entertainment choices for improved comfort and well-being during menstruation.
