@@ -1,6 +1,6 @@
 # Netflix_Menstruation_Correlation
 # Project Overview
-Over the next few months, I’ll be exploring how my Netflix viewing habits align with my menstrual cycle. The goal is to see if my period affects what I choose to watch and whether the emotions, themes, or genres of the shows I consume impact my mood and overall menstrual experience. By tracking both my period and my daily Netflix choices, I hope to uncover patterns and gain insights into how media consumption and my cycle interact. I’ll record my period dates, log what I watch each day, analyze any correlations, and test hypotheses about their influence on each other. Ultimately, this project will provide a data-driven look at how entertainment choices and emotional well-being shift during different phases of menstruation.
+Over the next few months, I’ll be exploring how my Netflix viewing habits align with my menstrual cycle. The goal is to see if my period affects what I choose to watch and whether the emotions, themes, or genres of the shows I consume impact my mood and overall menstrual experience. By tracking both my period and my daily Netflix choices, I hope to uncover patterns and gain insights into how media consumption and my cycle interact. I’ll record my period dates, log what I watch each day, analyze any correlations, and test hypotheses about their influence on each other. Ultimately, this project will provide a data-driven look at how entertainment choices and emotional well-being shift during menstruation.
 # Objectives
 Understand Viewing Patterns During Menstruation: Analyze how my Netflix habits (genre, duration, emotional intensity) fluctuate throughout my cycle. 
 Identify Trends and Patterns: Determine if I tend to prefer certain types of shows on specific days of my cycle. 
@@ -16,7 +16,6 @@ Date: The specific day of the record.
 Menstruation Status: Whether I was on my period that day (yes/no).
 Netflix Titles Watched: The title(s) of the shows I watched.
 Genre: The category of the show (drama, comedy, thriller, etc.).
-Emotional Tone: The overall mood of the show (e.g., uplifting, intense, relaxing, sad).
 Comfort Level: My self-assessed comfort or distress level during menstruation (on a scale of 1–10).
 I will consistently record these details in an Excel spreadsheet or a data tracking app to maintain accuracy. Any irregularities due to unusual cycle patterns or external stressors will be noted.
 # Tools and Technologies
